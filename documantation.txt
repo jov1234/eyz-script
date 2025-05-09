@@ -1,0 +1,54 @@
+you would need python to be installed
+run the interpreter.py to run it
+
+commands
+
+()-other command name
+<>-what you put there
+
+pnt (print) <what to print>
+all text will print and variables will not work with this command
+example:
+pnt i love food
+output:
+i love food
+
+
+rpt (repeat) <no. of repeats> <code to repeat>
+all code written in eyz script will repeat
+example:
+rpt 4 pnt hi
+output:
+hi
+hi
+hi
+hi
+
+run <file name>
+this runs code write in eyz script has coments start with # and after a space  
+run.eyz:
+# this prints hi
+pnt hi
+example:
+run run.eyz
+output:
+hi
+
+
+exc (execute) <python>
+runs normal python no libraries as of yet 
+example:
+exc print("hi")
+output:
+hi
+
+exit <nothing>
+quits the ide
+
+
+
+
+
+
+
+ 
